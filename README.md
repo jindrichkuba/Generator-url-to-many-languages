@@ -14,39 +14,41 @@ You need to install <a href="http://nodejs.org" target="_blank">Node.js</a> and 
 
 # Usage
 1) Open translate.json <br />
-2) Edit url adress /en/your-url/your-url <br />
+2) Edit url adress <pre><code>/en/your-url/your-url</code></pre> <br />
 4) Run gulp<br />
 5) Your translate is in the build like:
-"/en/your-url/your-url/",<br />
-"/ar/your-url/your-url/",<br />
-"/bg/your-url/your-url/",<br />
-"/cs/your-url/your-url/",<br />
-"/da/your-url/your-url/",<br />
-"/de/your-url/your-url/",<br />
-"/el/your-url/your-url/",<br />
-"/es/your-url/your-url/",<br />
-"/et/your-url/your-url/",<br />
-"/fi/your-url/your-url/",<br />
-"/fr/your-url/your-url/",<br />
-"/he/your-url/your-url/",<br />
-"/hi/your-url/your-url/",<br />
-"/hu/your-url/your-url/",<br />
-"/id/your-url/your-url/",<br />
-"/it/your-url/your-url/",<br />
-"/ja/your-url/your-url/",<br />
-"/ko/your-url/your-url/",<br />
-"/nl/your-url/your-url/",<br />
-"/no/your-url/your-url/",<br />
-"/pl/your-url/your-url/",<br />
-"/pt/your-url/your-url/",<br />
-"/pt-br/your-url/your-url/",<br />
-"/ro/your-url/your-url/",<br />
-"/ru/your-url/your-url/",<br />
-"/sv/your-url/your-url/",<br />
-"/tr/your-url/your-url/",<br />
-"/uk/your-url/your-url/",<br />
-"/zh-Hans/your-url/your-url/",<br />
+<pre><code>
+"/en/your-url/your-url/",
+"/ar/your-url/your-url/",
+"/bg/your-url/your-url/",
+"/cs/your-url/your-url/",
+"/da/your-url/your-url/",
+"/de/your-url/your-url/",
+"/el/your-url/your-url/",
+"/es/your-url/your-url/",
+"/et/your-url/your-url/",
+"/fi/your-url/your-url/",
+"/fr/your-url/your-url/",
+"/he/your-url/your-url/",
+"/hi/your-url/your-url/",
+"/hu/your-url/your-url/",
+"/id/your-url/your-url/",
+"/it/your-url/your-url/",
+"/ja/your-url/your-url/",
+"/ko/your-url/your-url/",
+"/nl/your-url/your-url/",
+"/no/your-url/your-url/",
+"/pl/your-url/your-url/",
+"/pt/your-url/your-url/",
+"/pt-br/your-url/your-url/",
+"/ro/your-url/your-url/",
+"/ru/your-url/your-url/",
+"/sv/your-url/your-url/",
+"/tr/your-url/your-url/",
+"/uk/your-url/your-url/",
+"/zh-Hans/your-url/your-url/",
 "/zh-Hant/your-url/your-url/",
+</code></pre>
 
 
 # Launch
