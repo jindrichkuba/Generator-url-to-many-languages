@@ -1,4 +1,4 @@
-# GulpTranslator
+# Generator url to many languages
 <p><img width="50" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" style="max-width:100%;">
 </p>
 Gulp <br />
